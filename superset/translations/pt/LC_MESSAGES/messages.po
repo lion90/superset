@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-02 06:18+0000\n"
+"POT-Creation-Date: 2026-11-09 15:56+0000\n"
 "PO-Revision-Date: 2026-07-17 14:21+0000\n"
 "Last-Translator: José Teixeira <jose.teixeira@douroeci.com>\n"
 "Language: pt\n"
@@ -12748,6 +12748,15 @@ msgstr "Lista atualizada"
 msgid "List view"
 msgstr "Visualização de lista"
 
+msgid "Literal filters require scalar values"
+msgstr ""
+
+msgid "Literal membership filters require a non-empty list of scalar values"
+msgstr ""
+
+msgid "Literal substring filters require a string column and value"
+msgstr ""
+
 # Machine-translated via backfill_po.py (claude-sonnet-4-6) [refs: ar, ca, cs,
 # de, es, fa, fr, ja, lv, mi, nl, pl, pt_BR, ro, ru, sk, sl, sr, sr_Latn, tr,
 # uk, zh, zh_TW]
@@ -12786,6 +12795,9 @@ msgid "Loading semantic layer types…"
 msgstr ""
 
 msgid "Loading semantic layers…"
+msgstr ""
+
+msgid "Loading the view shared with you…"
 msgstr ""
 
 # Machine-translated via backfill_po.py (claude-sonnet-4-6) [refs: de, ja, lv,
@@ -16487,6 +16499,9 @@ msgstr "Proporção"
 # uk, zh, zh_TW]
 msgid "Raw records"
 msgstr "Registros Brutos"
+
+msgid "Re-enter the access token when changing the connection destination."
+msgstr ""
 
 msgid "Re-pick fields"
 msgstr ""
@@ -21372,6 +21387,16 @@ msgstr ""
 msgid "The feature property to use for point labels"
 msgstr "A propriedade do recurso a ser usada para rótulos de ponto"
 
+msgid ""
+"The filters from the link you opened could not be loaded, so this link "
+"shares the default view."
+msgstr ""
+
+msgid ""
+"The filters from this link have expired, so you’re seeing the default "
+"view."
+msgstr ""
+
 msgid "The following charts could not be exported:"
 msgstr ""
 
@@ -25470,6 +25495,9 @@ msgstr "Visualizador"
 msgid "Viewers"
 msgstr "Visualizadores"
 
+msgid "Viewers cannot be added while the ENABLE_VIEWERS feature flag is disabled"
+msgstr ""
+
 # Machine-translated via backfill_po.py (claude-sonnet-4-6) [refs: ca, cs, de,
 # fr, it, ja, lv, mi, nl, ru, sk, sl, tr, uk]
 msgid ""
@@ -25766,6 +25794,11 @@ msgstr ""
 
 #, python-format
 msgid "We can't seem to resolve the column \"%(column_name)s\"."
+msgstr ""
+
+msgid ""
+"We couldn’t load the filters from this link, so you’re seeing the default"
+" view."
 msgstr ""
 
 # Machine-translated via backfill_po.py (claude-sonnet-4-6) [refs: ar, ca, cs,
